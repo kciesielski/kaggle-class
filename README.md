@@ -1,4 +1,4 @@
 kaggle-class
 ============
 
-My solutions to Kaggle assignments (training ones)
+This repository contains my solutions to training assignments from Kaggle.com.
